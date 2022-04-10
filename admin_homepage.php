@@ -24,7 +24,7 @@
 		<table cellpadding="5">
 			
 			<tr>
-				<td class="admin_func"><a href="admin_view_booked_tickets.php"><i class="fa fa-plane" aria-hidden="true"></i> View List of Booked Tickets for a Flight</a>
+				<td class="admin_func"><a href="admin_view_booked_tickets.php"><i class="fa fa-plane" aria-hidden="true"></i> View List of Booked Ticket for a Flight</a>
 				</td>
 			</tr>
 			<tr>
